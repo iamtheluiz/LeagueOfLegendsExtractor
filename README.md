@@ -7,6 +7,19 @@ Data extraction project from League of Legends ClientAPI.
   <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
+## 📝 Table of Contents
+
+- [Google Colab Notebook](#-google-colab-notebook)
+- [Technologies](#-technologies)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Authors](#-authors)
+- [License](#-license)
+
+## 📊 Google Colab Notebook
+
+This project was used as a base for a Google Colab Notebook that can be found [here](https://colab.research.google.com/drive/1uObZXI2RN4CGHkV6g2UPrGblnyZ50nK5?usp=sharing).
+
 ## 💻 Technologies
 
 * [Node](https://nodejs.org/en/)
